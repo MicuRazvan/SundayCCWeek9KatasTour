@@ -1,4 +1,4 @@
-# Week 8 Project — Katas Tour
+# Week 9 Project — Katas Tour
 
 ## Context
 I lost a bet with a friend and he challenged me that for the next 52 weeks, during weekends I need to create from scratch a new project.
